@@ -1,0 +1,3 @@
+[submodule "competitive-library"]
+	path = competitive-library
+	url = https://github.com/jellyfish26/competitive-library.git
